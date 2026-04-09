@@ -4,7 +4,7 @@ This repository contains the official PyTorch implementation for the paper:
 **"Difficulty-Aware Data Resampling and Selective Physics-Informed Learning for GNSS-R High Wind Speed Retrieval".
 
 ##  Repository Status: Structural Preview
-The source code currently available in this repository serves as a **structural preview (empty shell)** of the PLGF-NET framework. 
+The source code currently available in this repository serves as a **structural preview** of the PLGF-NET framework. 
 
 To protect intellectual property while our manuscript is under peer review, the core proprietary algorithm implementations have been temporarily redacted (replaced with `NotImplementedError`). This includes:
 - The precise formulations for the Sample Prediction Difficulty (SPD).
